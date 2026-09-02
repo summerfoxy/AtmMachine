@@ -1,0 +1,48 @@
+body
+{
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(to bottom, #210099, #BDCCED , #FFFFFF );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1
+{
+    text-align:center;
+    color: #FFFFFF;
+    font-family: 'Semibold', sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 46px;
+    margin-top: 200px;
+}
+
+#moneyInput
+{
+    font-family: 'Semibold', sans-serif;
+    color:#391f96;
+    margin: 40px auto 0;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 10px; 
+    display: block;
+}
+
+#Two
+{
+    color: rgb(255, 255, 255); 
+    font-size: 18px; line-height: 6px; 
+    margin: 40px auto 0;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 10px; 
+    font-family: 'Semibold', sans-serif;
+    font-weight: normal; 
+    text-decoration: none; 
+    text-align: center;
+    background-image: radial-gradient(rgb(65, 122, 255) 0%, rgb(189, 204, 237) 70%, rgb(255, 255, 255) 100%); 
+    box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; 
+    border: 2px solid rgb(28, 110, 164); 
+    display: block;
+    cursor: pointer;
+}
